@@ -1,7 +1,7 @@
 🚀 Project 1: Basic E-Commerce Analysis ( JoJo X Pokemon )
 
 🚀 Objective:
-This project establishes my understanding of Relational Database Management Systems (RDBMS). 
+This project demonstrates foundational SQL skills in a relational database management system (RDBMS).
 I designed a four-table schema to track customers, products, and orders while handling real-world database evolution scenarios.
 
 🚀 What I Actually Did ?
