@@ -18,7 +18,7 @@ I designed a four-table schema to track customers, products, and orders while ha
 3. `03_analytical_queries.sql`: Practical business queries focused on revenue, spender habits, and inventory.
 
 🚀 Key Takeaway
-This project served as my introduction to SQL logic. It learned how to handle schema changes after a database is already live and how to join multiple datasets to derive business value.
+This project served as my introduction to SQL logic. I learned how to handle schema changes after a database is already live and how to join multiple datasets to derive business value.
 
 🚀 Next Steps
-This project focused on **structure**. In the next one, I be tackling **performance**—using CTEs and larger datasets to see how SQL handles the "Final Boss" of data volume.
+This project focused on **structure**. In the next one, I will focus on **performance**, using CTEs and larger datasets to understand how SQL handles scalability and optimization.
