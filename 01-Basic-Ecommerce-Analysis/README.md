@@ -21,4 +21,4 @@ I designed a four-table schema to track customers, products, and orders while ha
 This project served as my introduction to SQL logic. I learned how to handle schema changes after a database is already live and how to join multiple datasets to derive business value.
 
 🚀 Next Steps
-This project focused on **structure**. In the next one, I will focus on **performance**, using CTEs and larger datasets to understand how SQL handles scalability and optimization.
+This project focused on **structure**. The next project will focus on **performance**, using CTEs and larger datasets to explore scalability and query optimization.
