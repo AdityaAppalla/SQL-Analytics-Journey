@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes election constituency data using SQL to study party performance, candidate rankings, constituency-wise results, and voting trends. The analysis was performed using MySQL with queries involving aggregation, filtering, joins, subqueries, and ranking-based insights.
+This project analyzes election constituency data using SQL to study party performance, candidate rankings, constituency-wise results, and voting trends. The queries were written and tested using MySQL Workbench to analyze voting trends and party performance.
 ---
 
 ## Dataset
